@@ -1,6 +1,6 @@
 <a href="http://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard" target="_blank"><img src="screenshot.jpg"></a>
 
-<h1>Star Admin Free React Template</h1>
+<h1>INCENTIVUS</h1>
 Star Admin React is yet another incredible admin template from BootstrapDash that is based on Bootstrap framework. The template is tastefully designed and coded to perfection. Star Admin React comes packed with a lot of bootstrap components, UI elements and built-in sample pages to kick-start your project.
 <br><br>
 The template is highly customizable so that you can alter the design to suit your needs and give it a unique look and very well-documented to help you get started without any issues.
